@@ -1,3 +1,8 @@
+If you want to check fully working application, create file .env in movie_database folder and paste inside yours Api Key to Movie database. Api key you can get by creating account in https://www.themoviedb.org/.
+
+The file .env should look like(Change stars to your api key):
+REACT_APP_API_KEY=*********
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
